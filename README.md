@@ -1,4 +1,4 @@
-# README for Salary Prediction Model using Ordinal Logistic Regression
+# Salary Prediction Model using Ordinal Logistic Regression
 
 ## Overview
 This project focuses on predicting salary classes based on various features, such as age, gender, education level, years of experience, and others. The dataset comes from a Kaggle competition and contains responses to multiple survey questions, which have been cleaned and processed for use in machine learning tasks. The goal is to implement a model that can predict salary ranges (encoded in `Q29_Encoded`) using the features available.
